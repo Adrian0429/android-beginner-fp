@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MyBadminGearApp</string>
+    <string name="gear_desc">Perlengkapan Badminton yang pernah saya gunakan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="gear_names">
+        <item>Lining 3D Calibar X Boost</item>
+        <item>Lining SS99 Ace</item>
+        <item>Mizuno JPX Limited Edition</item>
+        <item>Astrox 88D Play</item>
+        <item>Astrox 100ZZ</item>
+        <item>Sepatu  Badminton Eagle</item>
+        <item>Yonex Avatar</item>
+        <item>Yonex AC102EX</item>
+        <item>Lining No1 Boost</item>
+        <item>Yonex Aerobite Boost</item>
+        <item>Yonex BG66 Ultimax</item>
+        <item>Mizuno MZ66</item>
+    </string-array>
+
+    <string-array name="gear_description">
+        <item>Lining 3d Calibar memiliki tipe menyerang dengan berat 4U G5, dimana raket ini menjadi raket andalan saya ketika bermain cepat dan menyerang</item>
+        <item>Lining SS99 Ace ini adalah raket pertama yang saya beli ketika masuk SMA, dengan raket ini saya memulai bermain Badminton. dengan berat 4U G5, raket ini memiliki tipe all around yang cocok bagi pemula seperti saya dulu</item>
+        <item>Mizuno JPX Limited Edition ini merupakan raket seri premium pertama yang saya beli sekaligus raket kepercayaan saya ketika bermain, dengan berat 3UG5 dan memiliki shaft yang stiff, raket ini sangat menantang untuk digunakan dan terbukti saya dapat menggunakan raket ini dengan baik ketika telah melatih tangan saya agar lebih kuat demi mengakomodasi raket yang lebih kaku</item>
+        <item>Yonex 88D Play ini adalah raket yang difokuskan untuk pemain ganda belakang, dimana raket ini mementingkan kekuatan smash pemain sehingga nama yang diberikan adalah D, yaitu Dominance.</item>
+        <item>Astrox 100ZZ juga merupakan raket seri premium yang saya gunakan, raket ini digunakan oleh pemain single putra nomor 1 dunia, Victor Axelsen. Raket ini sangatlah bagus ketika digunakan untuk menyerang, tetapi karena berat dan kaku dari raket ini membuat kelemahannya adalah saat bermain kecepatan dan bertahan</item>
+        <item>Sepatu merk Eagle inilah yang menemani saya ketika memulai bermain badminton di usia SMA, saya sudah lupa serinya namun itu adalah sebuah sepatu yang memiliki harga terjangkau dan kualitas karet yang baik untuk harganya.</item>
+        <item>Setelah menggunakan merk Eagle sebanyak dua kali, akhirnya saya memutuskan untuk membeli sepatu dari merk Badminton yang cukup ternama yaitu Yonex, Yonex Avatar ini menarik perhatian saya karena warnanya dan memiliki karet sol yang bagus dan tidak licin ketika digunakna di berbagai kondisi lapangan.</item>
+        <item>Untuk Grip raket kepercayaan saya adalah YONEX AC102EX, memiliki feel yang tacky dan nyaman. Sangat cocok bagi kalangan pemain baik itu pemula, hobby, atau profesional sekalipun</item>
+        <item>Lining No1 Boost banyak menemani hari-hari bermain badminton saya, karena senar ini memiliki harga yang lebih terjangkau dari merk Yonex dan masih memiliki power yang baik, kekurangannya bagi saya adalah feelnya yang sangat keras ketika digunakan</item>
+        <item>Aerobite Boost adalah senar yang saat ini saya gunakan di kedua raket utama saya, memiliki keseimbangan antara power dan kontrol atas shuttle yang baik, dan masih memberikan feel yang cukup nyaman ketika digunakan untuk memukul</item>
+        <item>BG66 Ultimax merupakan nama yang sudah tidak asing bagi kalangan pemain badminton, senar ini sudah menjadi kepercayaan para pemain badminton yang mencari power kuat dari pukulan pukulan mereka</item>
+        <item>MZ66 ini adalah senar buatan Mizuno, memiliki power yang kuat dan feel empuk yang nyaman digunakan, namun feel empuk ini berimbas pada control yang kurang baik.</item>
+    </string-array>
+
+    <integer-array name="gear_photo">
+        <item>@drawable/liningcalibar</item>
+        <item>@drawable/ss99</item>
+        <item>@drawable/jpx</item>
+        <item>@drawable/yonexd</item>
+        <item>@drawable/zz</item>
+        <item>@drawable/eagle</item>
+        <item>@drawable/shoes</item>
+        <item>@drawable/yonexgrip</item>
+        <item>@drawable/liningstring</item>
+        <item>@drawable/aerobiteboost</item>
+        <item>@drawable/ultimax</item>
+        <item>@drawable/mz66</item>
+    </integer-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile">Profile</string>
+    <string name="email">Royankaruna@gmail.com</string>
+    <string name="username">Adrian Karuna Soetikno</string>
+    <string name="profile_desc">An Informatics Student from Institut Teknologi Sepuluh Nopember surabaya. His hobby is Badminton, mechanical keyboards, and drinking coffee at midnight. In his single life he seeks to find inner piece, yet everytime He get stressed out He often thinks that having a girlfriend would be nice huh?</string>
+    <string name="profile_pantun">Kalo sekolah upin ipin namanya apa? \nTadinya mesra ya?</string>
+    <string name="title_placeholder">This Is Placeholder Titles</string>
+    <string name="desc_placeholder">This is placeholder for description of the items or gears of the item description hah?</string>
+    <string name="sponsored_by">Sponsored By</string>
+    <string name="share">Share</string>
+</resources>
